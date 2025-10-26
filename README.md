@@ -69,7 +69,3 @@ Add fairness, bias, and explainability audits for clinical transparency.
 Dr. Taiwo Adetunji Famuyiwa
 Visiting Assistant Professor of Statistics | Data Scientist | Health Analytics Researcher
 📧 tafamuyiwa@ualr.edu
-]
-🌐 houmenage.com
-
-💼 LinkedIn Profile
