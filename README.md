@@ -51,3 +51,25 @@ Machine Learning	scikit-learn, XGBoost, LightGBM
 Visualization	matplotlib, seaborn, SHAP
 Deployment	Streamlit / Flask
 Version Control	Git, GitHub
+
+🔍 Future Work
+
+Integrate survival analysis (Cox/AFT) to estimate time-to-readmission.
+
+Extend dataset to include medication, lab, and diagnostic data.
+
+Deploy via AWS EC2, Azure Web App, or Dockerized API.
+
+Add fairness, bias, and explainability audits for clinical transparency.
+
+
+
+👨‍⚕️ Author
+
+Dr. Taiwo Adetunji Famuyiwa
+Visiting Assistant Professor of Statistics | Data Scientist | Health Analytics Researcher
+📧 tafamuyiwa@ualr.edu
+]
+🌐 houmenage.com
+
+💼 LinkedIn Profile
